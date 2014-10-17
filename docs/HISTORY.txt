@@ -4,7 +4,7 @@ Changelog
 0.5 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- make it Python 2,7 compoatible (sureshvv)
 
 
 0.4 (2014-06-20)
