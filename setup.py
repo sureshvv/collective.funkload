@@ -27,7 +27,7 @@ setup(name='collective.funkload',
       install_requires=[
           'setuptools',
           # -*- Extra requirements: -*-
-          'funkload <= 1.11.0',
+          'funkload <= 1.16.1',
           'zope.testing',
           'zope.testrunner',
           'zope.pagetemplate',
